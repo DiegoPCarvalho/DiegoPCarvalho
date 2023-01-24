@@ -4,7 +4,7 @@
           
 ### Bem vindo ao meu Github !!!
 
-##### Olá, sou Diego Carvalho, tenho 27 anos, amo programar, sou formado em Análise e Desenvolvimento de Sistemas desde 2015, estou á 3 anos como programador full-stack.
+##### Olá, sou Diego Carvalho! Tenho 27 anos, amo programar, sou formado em Análise e Desenvolvimento de Sistemas desde 2015, estou há 3 anos como programador full-stack.
 
   #### :pill: Tecnologias que utilizo.<br><br>
   :heavy_check_mark:  Front-end
